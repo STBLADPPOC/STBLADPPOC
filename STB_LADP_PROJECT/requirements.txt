@@ -1,8 +1,0 @@
-openai==0.28.1
-python-dotenv==1.0.0
-langchain==0.0.331
-langchainhub==0.1.13
-install llama-index==0.8.61
-pypdf==3.17.0
-tiktoken==0.5.1
-chromadb==0.4.15
